@@ -21,6 +21,6 @@
 /.gradle
 /Assets/Plugins/Editor/JetBrains
 /Assets/Plugins/Editor/JetBrains.meta
-/Assets/Plugins/Sirenix
+#/Assets/Plugins/Sirenix
 /Assets/Code/BDFramework/github/Ilr/Mono.Cecil/.svn
 /Assets/StreamingAssets/Windows/Art
