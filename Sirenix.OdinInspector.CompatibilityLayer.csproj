@@ -289,6 +289,9 @@
  <Reference Include="ICSharpCode.SharpZipLib">
  <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Code/BDFramework/Plugins/Excel/ICSharpCode.SharpZipLib.dll</HintPath>
  </Reference>
+ <Reference Include="Newtonsoft.Json">
+ <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Code/BDFramework/Plugins/NewtonSoft/Newtonsoft.Json.dll</HintPath>
+ </Reference>
  <Reference Include="Microsoft.CodeAnalysis.CSharp">
  <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Code/BDFramework/Plugins/Roslyn/Microsoft.CodeAnalysis.CSharp.dll</HintPath>
  </Reference>
@@ -355,6 +358,24 @@
  <Reference Include="System.Xml.XPath.XDocument">
  <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Code/BDFramework/Plugins/Roslyn/System.Xml.XPath.XDocument.dll</HintPath>
  </Reference>
+ <Reference Include="Sirenix.OdinInspector.Attributes">
+ <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll</HintPath>
+ </Reference>
+ <Reference Include="Sirenix.OdinInspector.Editor">
+ <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Sirenix.Serialization.Config">
+ <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll</HintPath>
+ </Reference>
+ <Reference Include="Sirenix.Serialization">
+ <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll</HintPath>
+ </Reference>
+ <Reference Include="Sirenix.Utilities">
+ <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll</HintPath>
+ </Reference>
+ <Reference Include="Sirenix.Utilities.Editor">
+ <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll</HintPath>
+ </Reference>
  <Reference Include="ILRuntim.Mono.Cecil">
  <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Library/PackageCache/com.ourpalm.ilruntime@1.6.3/Plugins/ILRuntim.Mono.Cecil.dll</HintPath>
  </Reference>
@@ -366,27 +387,6 @@
  </Reference>
  <Reference Include="ICSharpCode.NRefactory">
  <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Library/PackageCache/com.unity.render-pipelines.core@7.4.3/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
- </Reference>
- <Reference Include="Newtonsoft.Json">
- <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Library/PackageCache/com.unity.shaderprofiler@0.0.1-preview.1/Plugin/Newtonsoft.Json.dll</HintPath>
- </Reference>
- <Reference Include="Sirenix.Serialization">
- <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll</HintPath>
- </Reference>
- <Reference Include="Sirenix.Utilities">
- <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll</HintPath>
- </Reference>
- <Reference Include="Sirenix.Utilities.Editor">
- <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Sirenix.OdinInspector.Editor">
- <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Sirenix.OdinInspector.Attributes">
- <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll</HintPath>
- </Reference>
- <Reference Include="Sirenix.Serialization.Config">
- <HintPath>C:/Users/58329/GithubProjects/BDFramework.Core/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Unity/2019.4.1f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
